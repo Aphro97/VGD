@@ -39,7 +39,6 @@ class GEN_GUARDID {
         }
         return $results;
     }
- //test
 }
 
 ?>
