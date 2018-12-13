@@ -33,9 +33,9 @@ class GEN_GUARDID {
                 $results = 'guard' . $tmp;
             }
             //$response["success"] = 1;
-            //$response["message"] = "guard".$tmp;
+            //$response["message"] = " guard".$tmp;
             // echoing JSON response
-            //echo json_encode($response);
+            //echo json_encode($response); 
         }
         return $results;
     }
